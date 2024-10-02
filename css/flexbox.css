@@ -93,7 +93,7 @@
     }
 }
 
-@media(min-width: 1400px){
+@media(min-width: 1440px){
     .menu__container{
         width: 239px;
         overflow: scroll;
@@ -107,6 +107,7 @@
         height: auto;
         padding: 20px 17px 20px 15px;
         gap: 15px;
+        position: relative;
     }
     .menu__lista:nth-child(3){
         flex-direction: column-reverse;
